@@ -412,6 +412,7 @@ a {
   }
   .cd-morph-dropdown .bg-layer {
     /* morph dropdown background */
+    pointer-events: none;
     position: absolute;
     top: 0;
     left: 0;
